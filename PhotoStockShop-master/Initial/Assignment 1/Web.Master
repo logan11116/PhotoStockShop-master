@@ -1,0 +1,68 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Web.Master.cs" Inherits="Assignment_1.Master_Pages.master" %>
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head runat="server">
+    <title id="master_title"></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Welcome to the Photo Stock Shop Online Catalog" />
+     <script>
+        function loadPopup(url) {
+            window.open(url, "_blank", "scrollbar=no,directories=no,location=no,resizable=no,status=no,titlebar=no,toolbar=no,height=500,width=550")
+        }
+    </script>
+</head>
+
+<body id="master_body">
+    <form id="master_form" runat="server">
+        <div id="master_pagewrapper">
+
+            <header id="master_header">
+                <img id="header_image" src="../images/logo.png" alt="Header Image" />
+            </header>
+
+            <nav id="master_navigation">
+                <asp:SiteMapPath ID="Navigation_SiteMapPath" runat="server" Font-Names="Tahoma" PathSeparator="  >  ">
+                    <CurrentNodeStyle ForeColor="#333333"></CurrentNodeStyle>
+                    <NodeStyle Font-Bold="True" ForeColor="#333399"></NodeStyle>
+                    <PathSeparatorStyle Font-Bold="True" ForeColor="#006666"></PathSeparatorStyle>
+                    <RootNodeStyle Font-Bold="True" ForeColor="#3366CC"></RootNodeStyle>
+                </asp:SiteMapPath>
+                <asp:SiteMapDataSource ID="SiteMapDataSourceNav" runat="server" />
+            </nav>
+
+            <aside id="master_aside">
+                Select a theme: <br />
+                <asp:DropDownList ID="Theme_DropDownList" runat="server" AutoPostBack="True" OnSelectedIndexChanged="Theme_DropDownList_SelectedIndexChanged" CssClass="dynamicMenuItem">
+                    <asp:ListItem>Monochrome</asp:ListItem>
+                    <asp:ListItem>Colour</asp:ListItem>
+                </asp:DropDownList>
+                <br />
+                <br />
+                Navigation:
+                    <asp:TreeView ID="Site_TreeView" runat="server" DataSourceID="SiteMapDataSourceTree" ImageSet="Msdn" NodeIndent="10" CssClass="dynamicHoverStyle" HoverNodeStyle-CssClass="HoverNodeStyle" NodeStyle-CssClass="NodeStyle" SelectedNodeStyle-CssClass="SelectedNodeStyle" ParentNodeStyle-CssClass="ParentNodeStyle">
+                        <HoverNodeStyle Font-Underline="True"></HoverNodeStyle>
+                        <NodeStyle HorizontalPadding="5px" NodeSpacing="1px" VerticalPadding="2px"></NodeStyle>
+                        <ParentNodeStyle></ParentNodeStyle>
+                        <SelectedNodeStyle HorizontalPadding="3px" VerticalPadding="1px" Font-Underline="False"></SelectedNodeStyle>
+                    </asp:TreeView>
+                <asp:SiteMapDataSource ID="SiteMapDataSourceTree" runat="server" />
+            </aside>
+
+            <section id="master_content">
+                <asp:ContentPlaceHolder ID="Content_Placeholder" runat="server">
+                    Main Content goes here
+                </asp:ContentPlaceHolder>
+            </section>
+
+            <footer id="master_footer">
+                <div id="master_copyright">© CQU, 2016. Josh Cannons 2016. All images © free.</div>
+                <div id="master_lastupdate">Last updated 01/01/1923</div>
+            </footer>
+
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,166 @@
+﻿/*
+	TODO
+	- Create classes for SiteMapPath
+	- Refactor Css
+*/
+
+/* Site-Wide Specifics */
+h2 {
+	padding-top: 5%;
+	padding-bottom: 2.5%;
+}
+Table {
+	text-align: left;
+	border-collapse: collapse;
+	}
+address {
+	text-align: center;
+}
+.TableHeaderRow {
+	color: snow;
+	background-color: black;
+	text-align: center;
+	font-weight: bold;
+}
+img#header_image {
+	height: 100px;
+	width: 1000px;
+	text-align: center;
+}
+/* When you apply these rules you will get the appearance and colour scheme described in the assessment. */
+.dynamicMenuItem, .staticMenuItem
+{
+	display: block;
+	width: 99.99%;
+	background-color: snow;
+	text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+	padding: 0.2em;
+}
+.dynamicHoverStyle, .staticHoverStyle
+{
+	text-decoration: none;
+	color: #000000;
+	background-color: snow;
+}
+.loginControl
+{
+  font-size: x-small;
+  width: inherit ;
+}
+.HoverNodeStyle {
+	background-color: #CCCCCC;
+	border-color: #888888;
+	border-style: Solid;
+	font-weight: bold;
+}
+.NodeStyle {
+}
+.ParentNodeStyle {
+	font-weight: normal;
+}
+.SelectedNodeStyle {
+	background-color: White;
+	border-color: #888888;
+	border-width: 1px;
+	border-style: Solid;
+}
+/* The CSS rules below will style all hyperlinks outside of the menu.*/
+#breadcrumb a:link, #loginarea a:link, #footer a:link
+{
+	color: #000000 ;
+}
+#breadcrumb a:visited, #loginarea a:visited, #footer a:visited
+{
+	color: #CC9900 ;
+}
+#breadcrumb a:hover, #loginarea a:hover, #footer a:hover
+{
+  color: yellow;
+}
+/* Web.Master Specifics */
+#master_pagewrapper {
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+#master_copyright {
+	float: left;
+}
+#master_lastupdate {
+	float: right;
+}
+#master_body {
+	margin: 1%;
+	width: 100%;
+	height: 100%;
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	background-color: snow;
+	color: black;
+}
+#master_header {
+	height: 100px;
+	width: 100%;
+	padding: 5px;
+	text-align: center;
+}
+#master_navigation {
+	height: 10px;
+	width: 100%;
+	padding: 15px;
+	float: left;
+}
+#master_aside {
+	float: left;
+	width: 19%;
+	text-align: left;
+}
+#master_content {
+	float: left;
+	width: 79%;
+	text-align: center;
+	background-color: snow ;
+	color: black;
+}
+#master_footer {
+	clear: both;
+	padding-top: 15px;
+	width: 95%;
+	height: 5%;
+}
+/* ../Default Specifics */
+#default_page_image {
+	width: auto;
+	bottom: auto;
+}
+/* about/Default Specifics */
+/* about/AboutUs Specifics */
+#about_aboutus_heading {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+/* about/ContactUs Specifics */
+#about_contactus_heading {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+/* pages/Default Specifics */
+/* pages/Photographs Specifics */
+/* pages/Specials Specifics */
+/* pages/Popup Specifics */
+#popup_image {
+	text-align: center;
+	padding: 2px;
+}
+#popup_text {
+	padding: 1%;
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 18px;
+	background-color: snow;
+	color: black;
+	text-align: left;
+}

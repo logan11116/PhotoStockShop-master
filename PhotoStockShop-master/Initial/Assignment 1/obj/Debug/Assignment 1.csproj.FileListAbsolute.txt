@@ -1,0 +1,21 @@
+Z:\files\Josh\Documents\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\csc.exe
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\System.Collections.Immutable.dll
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\System.Reflection.Metadata.dll
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\vbc.exe
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\VBCSCompiler.exe
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\roslyn\VBCSCompiler.exe.config
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\Assignment 1.dll.config
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\Assignment 1.dll
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\Assignment 1.pdb
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\obj\Debug\Assignment 1.dll
+Y:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Code\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb

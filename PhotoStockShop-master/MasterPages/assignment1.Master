@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="assignment1.Master.cs" Inherits="Assignment_1.Pages.assignment1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="PageWrapper">
+            <header><a href="/">Header Goes Here</a></header>
+            <nav>Navigation Goes Here</nav>
+            <section id="MainContent">
+                <asp:ContentPlaceHolder ID="PlaceholderMainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </section>
+            <aside id="Sidebar">Aside Goes Here</aside>
+            <footer>Footer Goes Here</footer>
+        </div>
+    </form>
+</body>
+</html>

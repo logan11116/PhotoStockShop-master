@@ -1,0 +1,62 @@
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\obj\Debug\Photo Stock Shop.csprojResolveAssemblyReference.cache
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\obj\Debug\Assignment 1.dll
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\csc.exe
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\vbc.exe
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\Assignment 1.dll.config
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\Assignment 1.dll
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\Assignment 1.pdb
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josh Cannons\Documents\Assignment 1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\csc.exe
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\System.Collections.Immutable.dll
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\System.Reflection.Metadata.dll
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\vbc.exe
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\VBCSCompiler.exe
+R:\Assignment 1\Assignment 1\Assignment 1\bin\roslyn\VBCSCompiler.exe.config
+R:\Assignment 1\Assignment 1\Assignment 1\bin\Assignment 1.dll.config
+R:\Assignment 1\Assignment 1\Assignment 1\bin\Assignment 1.dll
+R:\Assignment 1\Assignment 1\Assignment 1\bin\Assignment 1.pdb
+R:\Assignment 1\Assignment 1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\Assignment 1\Assignment 1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Photo Stock Shop.csprojResolveAssemblyReference.cache
+R:\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.dll
+R:\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\csc.exe
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\System.Collections.Immutable.dll
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\System.Reflection.Metadata.dll
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\vbc.exe
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\VBCSCompiler.exe
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\roslyn\VBCSCompiler.exe.config
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\Assignment 1.dll.config
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\Assignment 1.dll
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\Assignment 1.pdb
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\Assignment 1.dll.CodeAnalysisLog.xml
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\Assignment 1.dll.lastcodeanalysissucceeded
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\obj\Debug\Photo Stock Shop.csprojResolveAssemblyReference.cache
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\obj\Debug\Assignment 1.dll
+Z:\School\Bachelor Degree Information Technology\COIT12204 Web Site Development\Assignment 1\COIT12204-A1\Assignment 1\obj\Debug\Assignment 1.pdb
